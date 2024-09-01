@@ -4,6 +4,10 @@ This repository includes a comprehensive library to conduct empirical asset pric
 # How to use it?
 Use classes and functions. The way to build factors has been generalized. Calling functions and methods is everything you are going to do. By leveraging our library, you can create whatever factors you want.
 
+* To Create Factors: Derive your new class from the father class `__FactorBase__` in file `FF3_FactorBuilding.py` or modify sample classes `FactorSMB` and `FactorHML` to achieve similar functionalities.
+
+* To Test Grouped Returns: Use the class `GroupedAnalysis` in file `FF3_ReturnAnalysis.py`, which provides three main computational tools `grouped_stat`, `grouped_panelillust`, `grouped_olsstat` that are all very useful in group analysis in asset pricing.
+
 # What's inside?
 
 #### Module Functions:
