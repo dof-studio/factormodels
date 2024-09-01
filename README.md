@@ -22,7 +22,7 @@ Use classes and functions. The way to build factors has been generalized. Callin
 
 #### Example Performance
 
-* res/`FF3_Validation_with_Famas.csv`
+* res/`FF3_Validation_with_Famas.xlsx`
 
 # About the author
 Nathmath from DOF Studio, on Aug 22, 2024.
