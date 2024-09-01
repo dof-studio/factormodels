@@ -29,6 +29,6 @@ Use classes and functions. The way to build factors has been generalized. Callin
 * res/`FF3_Validation_with_Famas.xlsx`
 
 # About the author
-Nathmath from DOF Studio, on Aug 22, 2024.
+Nathmath from DOF Studio, on Aug 31, 2024.
 
 Nathmath is/was a Master's student of NYU MSFE program.
