@@ -42,7 +42,7 @@ from FF3_ReturnAnalysis import GroupedAnalysis
 #   [Param] _g_sav_final:  Setting True to obtain the final FF3 factors
 #   [Param] _g_low_memory: Setting True to remove some unused variable to control the memory use
 
-alalysis_sav = r"C:\Users\happy\Desktop\资产定价\Project\Data\alalysis"
+alalysis_sav = r"..\InternAssetPricing\Project\Data\alalysis"
 
 # Class Initialization
 smb = FactorSMB()
