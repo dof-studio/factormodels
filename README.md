@@ -1,5 +1,5 @@
 # Repo of `factormodels`
-This repository includes a comprehensive library to conduct empirical asset pricing tasks specifically focus on financial factors. It is public for use now.
+This repository includes a comprehensive library to conduct empirical asset pricing tasks specifically having focus on leveraging financial factors. It is public for use now.
 
 # How to use it?
 Use classes and functions. The way to build factors has been generalized. Calling functions and methods is everything you are going to do. By leveraging our library, you can create whatever factors you want.
